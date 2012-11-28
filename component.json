@@ -1,0 +1,16 @@
+{
+  "name": "three",
+  "repo": "cvdlab/three",
+  "description": "Three.js component",
+  "version": "0.0.1",
+  "keywords": [
+    "webgl",
+    "three.js",
+    "3d"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}

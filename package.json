@@ -1,0 +1,25 @@
+{
+  "maintainers": [ 
+    {
+      "name": "Enrico Marino",
+      "email": "enrico.marino@email.com"
+    },
+    {
+      "name": "Federico Spini",
+      "email": "federico.spini@gmail.com"
+    }
+  ],
+  "name": "three",
+  "description": "three.js component",
+  "version": "0.2.0",
+  "homepage": "https://github.com/cvdlab/three",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cvdlab/three.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {}
+}
