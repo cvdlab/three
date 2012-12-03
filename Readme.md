@@ -6,6 +6,7 @@ three.js component
 
 (The MIT License)
 
+Copyright (c) 2010-2012 three.js authors  
 Copyright (c) 2012 Enrico Marino and Federico Spini
 
 Permission is hereby granted, free of charge, to any person obtaining
