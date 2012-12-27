@@ -2,7 +2,7 @@
   "name": "three",
   "repo": "cvdlab/three",
   "description": "Three.js component",
-  "version": "0.1.0",
+  "version": "0.54.0",
   "keywords": [
     "webgl",
     "three.js",
